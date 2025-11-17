@@ -1,7 +1,0 @@
--------------------------------------
-ID: 2222 | Nome: sdf
-Data: 15/11/2025  |  Hora do registro: 20:42:10
-Status: Hora extra APROVADA.
-Entrada: 10h | Saida: 24h | Horas Extras: 2h
--------------------------------------
-
